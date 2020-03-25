@@ -1,0 +1,14 @@
+#colorlib-aside {
+    overflow-y: scroll;
+}
+
+ul>li{
+    line-height: 1.44 !important;
+}
+ul{
+    font-size: 13px;
+	font-family: 'Open Sans', Arial, sans-serif;
+	
+	color: #777
+    
+}
