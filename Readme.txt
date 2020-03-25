@@ -1,6 +1,1 @@
-Thanks for downloading this theme!
-
-Theme Name: Folio
-Theme URL: https://bootstrapmade.com/folio-bootstrap-portfolio-template/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+merci de telecharger  le fichier  t d'ouvirir le fichier index.html
